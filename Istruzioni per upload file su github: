@@ -1,0 +1,8 @@
+Istruzioni per upload file su github:
+
+-importare il progetto zerostar su desktop
+-Creare e salvare un file sulla propria cartella in locale (zerostar)
+-aprire la versione desktop di github
+- andare su changes, dare un nome al summary, clickare "commit to master"
+- clickare in alto a dx su Sync
+- DONE!
